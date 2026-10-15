@@ -13,6 +13,6 @@ p,li{color:var(--fg)}
 .muted{color:var(--muted);font-size:14px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin:20px 0}
 a{color:var(--accent)}
-nav.lang{display:flex;gap:12px;font-size:14px;margin:8px 0 24px}
+nav.lang{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px;margin:8px 0 24px}
 hr{border:0;border-top:1px solid var(--line);margin:48px 0}
 footer{color:var(--muted);font-size:13px;margin-top:48px}
